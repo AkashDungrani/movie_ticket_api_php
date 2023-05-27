@@ -15,8 +15,8 @@
         $ind_id= $_POST['ind_id'];
         $lang_id = $_POST['lang_id'];
         $view_id = $_POST['view_id'];
-    $seat_id = $_POST['seat_id'];
-    $price_id = $_POST['price_id'];     // a.array
+        $seat_id = $_POST['seat_id'];
+        $price_id = $_POST['price_id'];  
 
 
         if($isFileUpload) {
